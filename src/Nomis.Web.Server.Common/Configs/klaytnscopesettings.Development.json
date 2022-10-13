@@ -1,0 +1,5 @@
+{
+  "KlaytnscopeSettings": {
+    "ApiBaseUrl": "https://api-cypress-v2.scope.klaytn.com/"
+  }
+}
